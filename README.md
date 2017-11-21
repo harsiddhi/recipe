@@ -52,3 +52,14 @@ environments/            contains environment-based overrides
 tests                    contains various tests for the advanced application
     codeception/         contains tests developed with Codeception PHP Testing Framework
 ```
+Discription
+-------------------
+Simple yii2 Application . CRUD Operation .
+
+Screen shots
+-------------------
+<img src ="y1.png">
+
+<img src="y2.png">
+
+
